@@ -31,7 +31,11 @@ Here are some ideas to get you started:
     <img  alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 </div>
 <div>
-  <h3>How to reach me<h3>
+  <h3>My goal</h3>
+  <em>Full Stack Web Development</em>
+</div>
+<div>
+  <h4>How to reach me<h4>
   <a href="https://github.com/jefersonBorges"target="_blank" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jeferson-borges-543b34229" target="_blank" alt="Linkedin Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:borges.jeferson@outlook.com" target="_blank" alt="E-mail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
