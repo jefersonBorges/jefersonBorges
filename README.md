@@ -42,8 +42,13 @@ Here are some ideas to get you started:
   <em>Full Stack Web Development</em>
 </div>
 <div>
+  <h3>+PraTi</h3>
+  <a target="_blank" alt="Projeto Cadastro Alunos" href="https://github.com/jefersonBorges/Learning-Projects/tree/master/cadastroAlunos">
+    <em>Projeto para avaliação +PraTi - Processo Seletivo Jan/2022</em></a>
+</div>
+<div>
   <h4>How to reach me<h4>
-  <a href="https://github.com/jefersonBorges"target="_blank" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jeferson-borges-543b34229" target="_blank" alt="Linkedin Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:borges.jeferson@outlook.com" target="_blank" alt="E-mail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a target="_blank" href="https://github.com/jefersonBorges" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jeferson-borges-543b34229" alt="Linkedin Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="mailto:borges.jeferson@outlook.com" alt="E-mail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div>
