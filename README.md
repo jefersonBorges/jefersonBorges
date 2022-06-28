@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 <div>
   <h3>Portfolio</h3>
-  <a target="_blank" alt="Learning Projects" href="https://github.com/jefersonBorges/Learning-Projects">
+  <a target="_blank" alt="Portfolio" href="https://github.com/jefersonBorges/Portfolio">
     <em>Projetos de portfolio</em></a>
 </div>
 <div>
