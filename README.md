@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   <em>Full Stack Web Development</em>
 </div>
 <div>
-  <h3>+PraTi</h3>
-  <a target="_blank" alt="Projeto Cadastro Alunos" href="https://github.com/jefersonBorges/Learning-Projects/tree/master/cadastroAlunos">
-    <em>Projeto para avaliação +PraTi - Processo Seletivo Jan/2022</em></a>
+  <h3>Portfolio</h3>
+  <a target="_blank" alt="Learning Projects" href="https://github.com/jefersonBorges/Learning-Projects">
+    <em>Projetos de portfolio</em></a>
 </div>
 <div>
   <h4>How to reach me<h4>
