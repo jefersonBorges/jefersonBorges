@@ -42,11 +42,6 @@ Here are some ideas to get you started:
   <em>Full Stack Web Development</em>
 </div>
 <div>
-  <h3>Portfolio</h3>
-  <a target="_blank" alt="Portfolio" href="https://github.com/jefersonBorges/Portfolio">
-    <em>Projetos de portfolio</em></a>
-</div>
-<div>
   <h4>How to reach me<h4>
   <a target="_blank" href="https://github.com/jefersonBorges" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/jeferson-borges-543b34229" alt="Linkedin Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
