@@ -1,26 +1,10 @@
-### 
-
-<!--
-**jefersonBorges/jefersonBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 <div>
   <h1>Hi there 👋<h1>
   <a href="https://github.com/jefersonBorges">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jefersonBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonBorges&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
 <div>
   <h2>I'm Currently Learning<h2>
     <img  alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -33,10 +17,12 @@ Here are some ideas to get you started:
     <img  alt="Arduino"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"/>
     <img  alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>
+    
 <div>
   <h3>My goal</h3>
   <em>Full Stack Web Development</em>
 </div>
+    
 <div>
   <h4>How to reach me<h4>
   <a target="_blank" href="https://github.com/jefersonBorges" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
