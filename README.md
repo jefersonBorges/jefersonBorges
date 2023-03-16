@@ -20,7 +20,7 @@
     
 <div>
   <h3>My goal</h3>
-  <em>Full Stack Web Development</em>
+  <em>Internship in the IT area, preferably in web development or software development</em>
 </div>
     
 <div>
