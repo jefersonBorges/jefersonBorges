@@ -1,33 +1,37 @@
-<div>
-  <h1>Hi there 👋<h1>
-  <a href="https://github.com/jefersonBorges">
-    <!--
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jefersonBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonBorges&layout=compact&langs_count=16&theme=dark"/>
-</div>
-    
-<div>
-  <h2>I'm Currently Learning<h2>
-    <img  alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img  alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img  alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-    <img  alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img  alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img  alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
-    <img  alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-    <img  alt="Arduino"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"/>
-    <img  alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-</div>
-    
-<div>
-  <h3>My goal</h3>
-  <em>Internship in the IT area, preferably in web development or software development</em>
-</div>
-    
-<div>
-  <h4>How to reach me<h4>
-  <a target="_blank" href="https://github.com/jefersonBorges" alt="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/jeferson-borges-543b34229" alt="Linkedin Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a target="_blank" href="mailto:borges.jeferson@outlook.com" alt="E-mail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-</div>
+# JefersonBorges
+
+Olá! Me chamo Jeferson e sou aluno de Engenharia da Computação no 6° semestre e estudante de desenvolvimento web.
+
+## Habilidades
+
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=999)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ffff00)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+![mySQL](https://img.shields.io/badge/Sql-000?style=for-the-badge&logo=mySql&logoColor=264CE4)
+
+![Visual_studio_code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code)
+![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipse)
+![IntelliJ_Idea](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea)
+
+## Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://www.linkedin.com/in/jeferson-b-543b34229/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jeferson-b-543b34229/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0E76A8)](mailto:borges.jeferson@outlook.com)
+
+## Status & linguagens mais utilizadas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefersonBorges&theme=transparent&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=30A3DC&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefersonBorges&layout=compact&bg_color=000&border_color=0E76A8&hide_title=true&text_color=FFF)
+
+---
